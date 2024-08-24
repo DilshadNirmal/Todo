@@ -5,4 +5,4 @@
 - **Integrated** modern UI/UX practices to create an intuitive user interface.
 - **Deployed** the application on Netlify for public access.
 
-**Live Demo:** [[Your Netlify URL](https://todomakey.netlify.app/)]
+**Live Demo:** [[TodoMakey](https://todomakey.netlify.app/)]
